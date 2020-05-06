@@ -1,0 +1,193 @@
+  {
+    "skills": {
+      "languages": [
+        {
+          "name": "Français (maternelle)",
+          "purcentage": 100
+        },
+        {
+          "name": "Anglais (Daily use)",
+          "purcentage": 80
+        }
+      ],
+      "human": [
+        {
+          "name": "Travail d'équipe",
+          "purcentage": 80
+        },
+        {
+          "name": "Organisation",
+          "purcentage": 85
+        },
+        {
+          "name": "Créativité",
+          "purcentage": 85
+        }
+      ],
+      "professional": [
+        {
+          "name": "SWIFT",
+          "purcentage": 85
+        },
+        {
+          "name": "UIKit",
+          "purcentage": 70
+        },
+        {
+          "name": "RX Programming",
+          "purcentage": 60
+        },
+        {
+          "name": "Clean architecture pattern",
+          "purcentage": 70
+        }
+      ]
+    },
+
+    "curriculum": {
+      "professional" : [
+        {
+          "dates" : "Janvier 2019 - Aujourd'hui",
+          "jobName" : "Lead développeur iOS",
+          "place" : {
+            "arrondissement" : "17ième",
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "missions" : {
+            "description": "Participation à la définition de nouveaux point APIs, A l'ajout de fonctionnalités Back (Microservices GoLang) Au développement d'un site React JS à destination de potentiels clients B2B. A la refonte total de l'application iOS",
+            "activities" : [ "Migration Realm Database vers CoreData", "Changement d'architecture de MVC vers principe de clean-architecture", "Source de données: APIs, Firebase, Realm/CoreData", "Abstraction de librairies d'analytics (Firebase, Mixpanel, Intercom)", "Utilisation des librairies RXSwift, RXAlamofire", "Développement d'un chatbot like", "Thème sombre pour iOS13", "Migration de Cocoapods vers Swift Package Manager" ]
+          },
+          "company" : {
+            "name" : "FITNEXT - Coaching sportif/alimentaire numrique",
+            "url" : "https://fitnext.com/"
+          }
+        }, {
+          "dates" : "Juillet 2014 - Septembre 2019",
+          "jobName" : "Co-Fondateur, Président et Développeur iOS et Front-End",
+          "place" : {
+            "arrondissement" : "10ième",
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "missions" : {
+            "description": "Connectiv’IT est une société qui accompagne les entreprises dans leur transformation digitale (site web et applications mobiles). En tant que fondateur, j’effectue de nombreuses tâches allant de la prospection au développement en passant par le chiffrage des temps et des coûts de développement. Les principales technologies que j’utilise sont AngularJS / MongoDB (APIs), Xamarin iOS/Android et SDK iOS.",
+            "activities" : []
+          },
+          "company" : {
+            "name" : "Connectiv'IT",
+            "url" : "http://connectiv.it/"
+          }
+        }, {
+          "dates" : "2013 - Janvier 2017",
+          "jobName" : "Lead développeur et chef de projet",
+          "place" : {
+            "arrondissement" : "10ième",
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "missions" : {
+            "description": "Easydrinks est une application de recherche de bars. En tant que Lead développeur j’ai encadré les équipes techniques (6 développeurs) depuis la conception du produit jusqu'à sa réalisation. En plus de mon poste de Lead développeur j’ai effectué le développement de l’application iOS.",
+            "activities" : [ ]
+          },
+          "company" : {
+            "name" : "Easydrinks"
+          }
+        }, {
+          "dates" : "Avril 2013 - Avril 2014",
+          "jobName" : "Vice président",
+          "place" : {
+            "country" : "FRANCE",
+            "city" : "Le kremlin Bicêtre"
+          },
+          "missions" : {
+            "description": null,
+            "activities" : ["Planification et préparation d’évènements associatifs", "Mise en place de plans de communication", "Mise en place d'actions de communication", "Budgétisation d'évènements", "Gestion d'équipes" ]
+          },
+          "company" : {
+            "name" : "BDE EPITECH RISING"
+          }
+        }, {
+          "dates" : "Juin 2013 - Septembre 2013",
+          "jobName" : "Web Developer - stage",
+          "place" : {
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "missions" : {
+            "description": null,
+            "activities" : [ "Développement d’une webapplication de booking de publicité image, texte sur espace web", "Charger développement d’une application tablette de booking de publicité image, texte" ]
+          },
+          "company" : {
+            "name" : "Adcloud GmbH"
+          }
+        }],
+      "formation" : [
+        {
+          "dates" : "2009 - 2015",
+          "intitule" : "Master - Technologies de l'information",
+          "place" : {
+            "country" : "FRANCE",
+            "city" : "Le kremlin Bicêtre"
+          },
+          "company" : {
+            "name" : "EPITECH",
+            "url" : "https://www.epitech.eu/"
+          }
+        }, {
+          "dates" : "2006 - 2009",
+          "intitule" : "BAC des Siences Technologique de la Gestion",
+          "place" : {
+            "arrondissement" : "9ième",
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "company" : {
+            "name" : "Cours Clapeyron",
+            "url" : "https://www.lycee-prive-clapeyron.paris/"
+          }
+        }]
+    },
+
+    "files" : {
+      "curriculumPdf": "https://raw.githubusercontent.com/phoenisis/test/master/data/CV-Quentin-PIDOUX.pdf"
+    },
+
+    "socials" :{
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/quentinpidoux",
+        "text": "/quentinpidoux"
+      },
+      "github": {
+        "url": "https://github.com/phoenisis",
+        "text": "@phoenisis"
+      },
+      "website": {
+        "url": "https://quentin.pidoux.eu",
+        "text": "quentin.pidoux.eu"
+      }
+    },
+
+    "user" : {
+      "image": "https://avatars1.githubusercontent.com/u/3032945",
+      "birthDate" : "1990.09.10",
+      "description" : "Diplômé d'un titre d'expert en Technologies de l'Information de l'EPITECH. J'ai développé ma société ce qui ma permis d'accompagner les entreprises dans leur transformation digitale, effectuait de nombreuses tâches allant de la prospection au développement en passant par le chiffrage des temps et des coûts de développement. J'ai continué mon parcours dans au sein de la société FITNEXT (Coaching sportif et alimentaire) dans laquelle j'ai eu pour mission de maintenir l'application iOS puis effectuer une refonte totale de celle-ci.",
+      "jobActuel" : "Lead développeur iOS",
+      "name" : "Quentin Yann PIDOUX",
+      "email": "quentin@pidoux.dev",
+      "siteInternet" : "https://quentin.pidoux.eu",
+      "phone" : "+33 0(6) 24 25 31 78",
+      "address" : {
+        "zipcode" : "75010",
+        "country" : "france",
+        "city" : "Paris"
+      }
+    },
+
+    "header": {
+      "ico": "https://raw.githubusercontent.com/phoenisis/test/master/data/favicon.ico",
+      "description": "Lead développeur iOS et diplomer de l'EPITECH."
+    },
+
+    "lastUpdate" : "18/03/2019"
+  }
