@@ -11,7 +11,7 @@ ReactDOM.render(
     <Helmet>
       <title>Curriculum</title>
     </Helmet>
-    <App source="https://raw.githubusercontent.com/phoenisis/test/master/data.json" />
+    <App source="https://raw.githubusercontent.com/phoenisis/resume-react/master/data/data.json" />
   </React.StrictMode>,
   document.getElementById('root')
 );
