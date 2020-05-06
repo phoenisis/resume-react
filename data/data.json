@@ -150,7 +150,7 @@
     },
 
     "files" : {
-      "curriculumPdf": "https://raw.githubusercontent.com/phoenisis/test/master/data/CV-Quentin-PIDOUX.pdf"
+      "curriculumPdf": "https://raw.githubusercontent.com/phoenisis/resume-react/master/data/CV-Quentin-PIDOUX.pdf"
     },
 
     "socials" :{
@@ -185,7 +185,7 @@
     },
 
     "header": {
-      "ico": "https://raw.githubusercontent.com/phoenisis/test/master/data/favicon.ico",
+      "ico": "https://raw.githubusercontent.com/phoenisis/resume-react/master/data/favicon.ico",
       "description": "Lead développeur iOS et diplomer de l'EPITECH."
     },
 
