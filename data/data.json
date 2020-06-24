@@ -59,7 +59,7 @@
             "activities" : [ "Migration Realm Database vers CoreData", "Changement d'architecture de MVC vers principe de clean-architecture", "Source de données: APIs, Firebase, Realm/CoreData", "Abstraction de librairies d'analytics (Firebase, Mixpanel, Intercom)", "Utilisation des librairies RXSwift, RXAlamofire", "Développement d'un chatbot like", "Thème sombre pour iOS13", "Migration de Cocoapods vers Swift Package Manager" ]
           },
           "company" : {
-            "name" : "FITNEXT - Coaching sportif/alimentaire numrique",
+            "name" : "FITNEXT - Coaching sportif/alimentaire numérique",
             "url" : "https://fitnext.com/"
           }
         }, {
