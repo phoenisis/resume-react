@@ -26,15 +26,19 @@
       ],
       "professional": [
         {
-          "name": "SWIFT",
+          "name": "Swift",
           "purcentage": 85
+        },
+        {
+          "name": "SwiftUI",
+          "purcentage": 80
         },
         {
           "name": "UIKit",
           "purcentage": 70
         },
         {
-          "name": "RX Programming",
+          "name": "TCA",
           "purcentage": 60
         },
         {
@@ -43,20 +47,35 @@
         }
       ]
     },
-
     "curriculum": {
       "professional" : [
         {
-          "dates" : "Janvier 2019 - Aujourd'hui",
-          "jobName" : "Lead développeur iOS",
+          "dates" : "Aout 2020 - Mars 2024",
+          "jobName" : "Lead développeur Mobile - Développeur iOS",
+          "place" : {
+            "arrondissement" : "19ième",
+            "country" : "FRANCE",
+            "city" : "Paris"
+          },
+          "missions" : {
+            "description": "En tant que Lead Developer Mobile, j’ai piloté la conception et l'implémentation d'un Design System, collaborant étroitement avec l'équipe de design pour améliorer l'expérience utilisateur. \n\nJ'ai dirigé des migrations techniques majeures, incluant UIKit vers SwiftUI, RXSwift vers Async Await, et vers The Composable Architecture (TCA 1.8). Mon rôle a englobé la définition des besoins produits, la spécification technique, et la formation des développeurs sur les bonnes pratiques et les principes agiles.\n\nAuparavant, en tant que Développeur iOS de août 2020 à mars 2024, j'ai établi la stack iOS avec une architecture clean et MVI, et utilisé Swift Package Manager pour la modularité. Ma contribution a inclus la formation des développeurs et la promotion de l'agilité, renforçant la collaboration et l'excellence technique au sein de l'équipe.",
+            "activities" : []
+          },
+          "company" : {
+            "name" : "Squadeasy - Cohésion d'équipe par le sport",
+            "url" : "https://www.squadeasy.com/"
+          }
+        }, {
+          "dates" : "Janvier 2019 - juin 2020",
+          "jobName" : "Développeur iOS",
           "place" : {
             "arrondissement" : "17ième",
             "country" : "FRANCE",
             "city" : "Paris"
           },
           "missions" : {
-            "description": "Participation à la définition de nouveaux point APIs, A l'ajout de fonctionnalités Back (Microservices GoLang) Au développement d'un site React JS à destination de potentiels clients B2B. A la refonte total de l'application iOS",
-            "activities" : [ "Migration Realm Database vers CoreData", "Changement d'architecture de MVC vers principe de clean-architecture", "Source de données: APIs, Firebase, Realm/CoreData", "Abstraction de librairies d'analytics (Firebase, Mixpanel, Intercom)", "Utilisation des librairies RXSwift, RXAlamofire", "Développement d'un chatbot like", "Thème sombre pour iOS13", "Migration de Cocoapods vers Swift Package Manager" ]
+            "description": "J'ai piloté la refonte totale de l'application iOS. Cette mission a inclus une migration de la base de données de Realm vers CoreData et un changement d'architecture de MVC vers les principes de clean architecture.\n\nParmi les projets marquants, j'ai développé un chatbot interactif et implémenté le thème sombre pour iOS 13, en plus de migrer de Cocoapods vers Swift Package Manager pour une meilleure gestion des dépendances.\nOutre le développement iOS, j'ai activement participé à la définition de nouveaux points API",
+            "activities" : []
           },
           "company" : {
             "name" : "FITNEXT - Coaching sportif/alimentaire numérique",
@@ -171,12 +190,11 @@
     "user" : {
       "image": "https://avatars1.githubusercontent.com/u/3032945",
       "birthDate" : "1990.09.10",
-      "description" : "Diplômé d'un titre d'expert en Technologies de l'Information de l'EPITECH. J'ai développé ma société ce qui ma permis d'accompagner les entreprises dans leur transformation digitale, effectuait de nombreuses tâches allant de la prospection au développement en passant par le chiffrage des temps et des coûts de développement. J'ai continué mon parcours dans au sein de la société FITNEXT (Coaching sportif et alimentaire) dans laquelle j'ai eu pour mission de maintenir l'application iOS puis effectuer une refonte totale de celle-ci.",
+      "description" : "Avec une expertise de 9 ans en développement iOS, ma passion réside dans l'élaboration d'applications mobiles à la pointe de l'innovation.\nToujours en quête des nouveautés et des standards d'excellence, je mets un point d'honneur à soigner la qualité du code et à peaufiner l'expérience utilisateur (UI/UX) des projets auxquels je contribue.\nLa collaboration étroite avec les équipes de produit, technique et design est essentielle pour moi, car elle stimule ma créativité et mon engagement à relever constamment de nouveaux défis.",
       "jobActuel" : "Lead développeur iOS",
       "name" : "Quentin Yann PIDOUX",
       "email": "quentin@pidoux.dev",
       "siteInternet" : "https://quentin.pidoux.eu",
-      "phone" : "+33 0(6) 24 25 31 78",
       "address" : {
         "zipcode" : "75010",
         "country" : "france",
@@ -186,8 +204,8 @@
 
     "header": {
       "ico": "https://raw.githubusercontent.com/phoenisis/resume-react/master/data/favicon.ico",
-      "description": "Lead développeur iOS et diplomer de l'EPITECH."
+      "description": "Développeur iOS"
     },
 
-    "lastUpdate" : "18/03/2019"
+    "lastUpdate" : "08/04/2024"
   }
